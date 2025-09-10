@@ -1,12 +1,28 @@
 # 💬 FAQ Animado com Bolhas
 
-![Banner](./images/faq.png)
+## **GIF Demonstrativo da Interação:**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GIF](./images/FAQ%20-.gif)
+
 
 ---
+
+## Tecnologias Ultilizadas?
+
+![HTML5](https://img.shields.io/badge/HTML5-💛-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-💙-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-🚀-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-🌐-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-📱-00FF7F?style=for-the-badge)
+![Interativo](https://img.shields.io/badge/Interativo-💬-FF69B4?style=for-the-badge)
+
+---
+
+## Veja Online
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-🌐-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white)](https://samirasfonseca.github.io/FAQ-Animado/)
+
+
 
 ## 🔹 Descrição do Projeto
 
@@ -45,13 +61,8 @@ faq-bolhas/<br>
 
 ## 📸 Screenshots
 
-**Janela de Chat com Bolhas Animadas:**
+![Banner](./images/faq.png)
 
-![Screenshot](./images/faq-screenshot.png)
-
-**GIF Demonstrativo da Interação:**
-
-![GIF](./images/FAQ%20-.gif)
 
 ---
 
