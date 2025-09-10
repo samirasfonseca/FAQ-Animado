@@ -51,7 +51,7 @@ faq-bolhas/<br>
 
 **GIF Demonstrativo da Interação:**
 
-![GIF](./gifs/faq-demo.gif)
+![GIF](./images/FAQ%20-.gif)
 
 ---
 
